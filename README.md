@@ -1,4 +1,4 @@
-# Pomodo
+# Pomodoro
 
 ## Despliegue
 https://laughing-fermi-328b69.netlify.app
